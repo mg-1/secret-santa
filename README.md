@@ -2,10 +2,9 @@
 
 As inspired by Brent Simmons:
 http://inessential.com/2015/09/25/a_secret_santa_solution
-
 which references: http://rubyquiz.com/quiz2.html
 
-The challenge is to implement a Secret Santa selection script in Javascript.
+The challenge is to implement a Secret Santa selection script, but I'll do it in Javascript.
 
 The script is fed a list of names as a text file, or as input into a text field. 
 
